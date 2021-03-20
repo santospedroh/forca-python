@@ -4,3 +4,7 @@ morango
 maça
 abacaxi
 uva
+brasil
+russia
+espanha
+japao
